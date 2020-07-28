@@ -14,10 +14,12 @@
 - 🌱 What I Am Learning: Full Stack JS Development, React, and ML
 - ⚡ Fun Fact: I started programming at the age of 8!
 
-<h2>My Top Languages</h2>
-<h6><em>This is only representative of the projects I publish on GitHub</em></h6>
+<h2>Notable Projects</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyclo&layout=compact)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=ideoxan&repo=ideoxan)](https://github.com/ideoxan/ideoxan)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=node-scdl)](https://github.com/skyclo/node-scdl)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=streamflow)](https://github.com/skyclo/streamflow)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=calicode-org&repo=calicode-www)](https://github.com/calicode-org/calicode-www)
 
 <h2>My Tech Stack</h2>
 
@@ -47,12 +49,10 @@
 ![Unreal Engine](https://img.shields.io/badge/UE4-black?logo=unreal-engine&logoColor=white&style=for-the-badge)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-%230696D7?logo=autodesk&logoColor=white&style=for-the-badge)
 
-<h2>Notable Projects</h2>
+<h2>My Top Languages</h2>
+<h6><em>This is only representative of the projects I publish on GitHub</em></h6>
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=ideoxan&repo=ideoxan)](https://github.com/ideoxan/ideoxan)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=node-scdl)](https://github.com/skyclo/node-scdl)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=streamflow)](https://github.com/skyclo/streamflow)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=calicode-org&repo=calicode-www)](https://github.com/calicode-org/calicode-www)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyclo&layout=compact)
 
 <h2>Find Me Around</h2>
 
