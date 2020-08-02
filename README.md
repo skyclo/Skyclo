@@ -14,13 +14,12 @@
 - 🌱 What I Am Learning: Full Stack JS Development, React, and ML
 - ⚡ Fun Fact: I started programming at the age of 8!
 
-<h2>Notable Projects</h2>
-
+<!--<h2>Notable Projects</h2>
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=ideoxan&repo=ideoxan)](https://github.com/ideoxan/ideoxan)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=node-scdl)](https://github.com/skyclo/node-scdl)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=streamflow)](https://github.com/skyclo/streamflow)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=calicode-org&repo=calicode-www)](https://github.com/calicode-org/calicode-www)
-
+-->
 <h2>My Tech Stack</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code&style=for-the-badge)
