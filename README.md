@@ -1,7 +1,13 @@
 <html align="left">
 <h1>👋 Hey there! 👋 </h1>
+<!--![Visits Badge](https://badges.pufler.dev/visits/skyclo/git-badges)-->
 
-![Visits Badge](https://badges.pufler.dev/visits/skyclo/git-badges)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-%23212121?logo=github&style=for-the-badge)](https://github.com/Skyclo)
+[![HashNode Profile](https://img.shields.io/badge/HashNode-%232962ff?logo=hashnode&style=for-the-badge)](https://hashnode.com/@skyclo)
+[![NPM Profile](https://img.shields.io/badge/NPM-%23c12127?logo=npm&style=for-the-badge)](https://www.npmjs.com/~skyclo)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge)]()
+[![Behance](https://img.shields.io/badge/Behance-%231769FF?logo=behance&logoColor=white&style=for-the-badge)]()
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89?logo=dribbble&logoColor=white&style=for-the-badge)]()
 
 <h2>Who Am I?</h2>
 <p>I am Bryce Daly (aka. Skyclo), a self-taught high school student with nearly 8 years of programming experience. I currently am fluent in multiple languages such as JavaScript (DOM, Node.js, and other variants), Python, HTML, CSS, and SQL. I have experience in several others including PHP, C#, and UE4 Blueprints.</p>
@@ -53,15 +59,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyclo&layout=compact)
 
-<h2>Find Me Around</h2>
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-%23212121?logo=github&style=for-the-badge)](https://github.com/Skyclo)
-[![HashNode Profile](https://img.shields.io/badge/HashNode-%232962ff?logo=hashnode&style=for-the-badge)](https://hashnode.com/@skyclo)
-[![NPM Profile](https://img.shields.io/badge/NPM-%23c12127?logo=npm&style=for-the-badge)](https://www.npmjs.com/~skyclo)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge)]()
-[![Behance](https://img.shields.io/badge/Behance-%231769FF?logo=behance&logoColor=white&style=for-the-badge)]()
-[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89?logo=dribbble&logoColor=white&style=for-the-badge)]()
-<br><br><hr>
+<br><hr>
 <h4>This README is Powered By These Wonderful Repositories!</h4>
 
 [![README Stats](https://img.shields.io/badge/README%20Stats-%23212121?logo=github&style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats)
