@@ -54,11 +54,6 @@
 ![Unreal Engine](https://img.shields.io/badge/UE4-black?logo=unreal-engine&logoColor=white&style=for-the-badge)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-%230696D7?logo=autodesk&logoColor=white&style=for-the-badge)
 
-<h2>My Top Languages</h2>
-<h6><em>This is only representative of the projects I publish on GitHub</em></h6>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyclo&layout=compact)
-
 <br><hr>
 <h4>This README is Powered By These Wonderful Repositories!</h4>
 
