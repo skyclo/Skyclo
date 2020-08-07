@@ -53,7 +53,6 @@
 
 ![Unreal Engine](https://img.shields.io/badge/UE4-black?logo=unreal-engine&logoColor=white&style=for-the-badge)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-%230696D7?logo=autodesk&logoColor=white&style=for-the-badge)
-
 <br><hr>
 <h4>This README is Powered By These Wonderful Repositories!</h4>
 
