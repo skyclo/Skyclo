@@ -8,6 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge)]()
 [![Behance](https://img.shields.io/badge/Behance-%231769FF?logo=behance&logoColor=white&style=for-the-badge)]()
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89?logo=dribbble&logoColor=white&style=for-the-badge)]()
+[![16Personalities](https://img.shields.io/badge/16Personalities-ENTP_A-%238f749c?logoColor=white&style=for-the-badge)](https://www.16personalities.com/profiles/e0014a38f2824)
 
 <h2>Who Am I?</h2>
 <p>I am Bryce Daly (aka. Skyclo), a self-taught high school student with nearly 8 years of programming experience. I currently am fluent in multiple languages such as JavaScript (DOM, Node.js, and other variants), Python, HTML, CSS, and SQL. I have experience in several others including PHP, C#, and UE4 Blueprints.</p>
