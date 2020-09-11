@@ -5,6 +5,7 @@
 [![GitHub Profile](https://img.shields.io/badge/-%23212121?logo=github&style=for-the-badge)](https://github.com/Skyclo)
 [![HashNode Profile](https://img.shields.io/badge/-%232962ff?logo=hashnode&style=for-the-badge)](https://hashnode.com/@skyclo)
 [![NPM Profile](https://img.shields.io/badge/-%23c12127?logo=npm&style=for-the-badge)](https://www.npmjs.com/~skyclo)
+[![Twitter Profile](https://img.shields.io/badge/-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/skyclo_)
 [![Behance](https://img.shields.io/badge/-%231769FF?logo=behance&logoColor=white&style=for-the-badge)]()
 [![Dribbble](https://img.shields.io/badge/-%23EA4C89?logo=dribbble&logoColor=white&style=for-the-badge)](https://dribbble.com/Skyclo)
 [![16Personalities](https://img.shields.io/badge/16Personalities-ENTP_A-%238f749c?logoColor=white&style=for-the-badge)](https://www.16personalities.com/profiles/e0014a38f2824)
