@@ -15,7 +15,8 @@
 - 🧠 What I Am Learning: Full Stack JS Development, React, and ML
 - ⚡ Fun Fact: I started programming at the age of 8!
 
-<h2>💻 My Tech Stack</h2>
+<hr>
+<h3>💻 My Tech Stack</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code&style=for-the-badge)
 ![Firefox](https://img.shields.io/badge/Firefox-%23FF7139?logo=firefox-browser&logoColor=white&style=for-the-badge)
