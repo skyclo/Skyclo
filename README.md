@@ -4,7 +4,7 @@
 </p>
 <!--![Visits Badge](https://badges.pufler.dev/visits/skyclo/git-badges)-->
 
-<h2>Who Am I?</h2>
+<h2>Hello There! 👋</h2>
 <p>I am Bryce Daly (aka. Skyclo), a self-taught high school student with nearly 8 years of programming experience. I currently am fluent in multiple languages such as JavaScript (DOM, Node.js, and other variants), Python, HTML, CSS, and SQL. I have experience in several others including PHP, C#, and UE4 Blueprints.</p>
 
 <p>I hope to eventually become fluent in Go, UE4 Blueprints, and C++ or some other language. I also do graphic design work and video editing, among other things. I plan to study Computer Science in college and work on JavaScript full stack software.</p>
@@ -12,16 +12,10 @@
 <p>When I am not programming, you can often find me playing soccer, playing some of my favorite games or finding new projects to work on!</p>
 
 - 🚀 What I Am Working On: [Ideoaxn](https://github.com/ideoxan), My Personal Website, and of course improving my coding skills 😉
-- 🌱 What I Am Learning: Full Stack JS Development, React, and ML
+- 🧠 What I Am Learning: Full Stack JS Development, React, and ML
 - ⚡ Fun Fact: I started programming at the age of 8!
 
-<!--<h2>Notable Projects</h2>
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=ideoxan&repo=ideoxan)](https://github.com/ideoxan/ideoxan)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=node-scdl)](https://github.com/skyclo/node-scdl)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclo&repo=streamflow)](https://github.com/skyclo/streamflow)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=calicode-org&repo=calicode-www)](https://github.com/calicode-org/calicode-www)
--->
-<h2>My Tech Stack</h2>
+<h2>💻 My Tech Stack</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code&style=for-the-badge)
 ![Firefox](https://img.shields.io/badge/Firefox-%23FF7139?logo=firefox-browser&logoColor=white&style=for-the-badge)
