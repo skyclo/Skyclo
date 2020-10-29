@@ -12,7 +12,7 @@
 <p>When I am not programming, you can often find me playing soccer, playing some of my favorite games or finding new projects to work on!</p>
 
 - 🚀 What I Am Working On: [Ideoaxn](https://github.com/ideoxan), My Personal Website, and of course improving my coding skills 😉
-- 🧠 What I Am Learning: Full Stack JS Development, React, and ML
+- 🧠 What I Am Learning: Full Stack JS Development, React, and C#
 - ⚡ Fun Fact: I started programming at the age of 8!
 
 <hr>
