@@ -21,28 +21,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code&style=for-the-badge)
 ![Firefox](https://img.shields.io/badge/Firefox-%23FF7139?logo=firefox-browser&logoColor=white&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white&style=for-the-badge)
 
-![Node.js](https://img.shields.io/badge/node.js-%2343853D?logo=node.js&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?logo=javascript&logoColor=%23f0db4f&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-%23E44D26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-%232965f1?logo=css3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?logo=javascript&logoColor=%23f0db4f&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D?logo=node.js&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-%2314354C?logo=python&logoColor=%23ffd343&style=for-the-badge)
+![CSharp](https://img.shields.io/badge/C%20Sharp-%23239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 
 ![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&style=for-the-badge)
-![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku&style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![GitHub Profile](https://img.shields.io/badge/GitHub-%23212121?logo=github&style=for-the-badge)
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-grey?logo=inkscape&style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-black?logo=adobe-photoshop&style=for-the-badge)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-black?logo=adobe-after-effects&style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black?logo=adobe-illustrator&style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-black?logo=adobe-photoshop&style=for-the-badge)
-
-![Unreal Engine](https://img.shields.io/badge/UE4-black?logo=unreal-engine&logoColor=white&style=for-the-badge)
-![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-%230696D7?logo=autodesk&logoColor=white&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23FF0000?logo=adobe&style=for-the-badge)
 <br><hr>
 <h4>This README is Powered By These Wonderful Repositories!</h4>
 
