@@ -6,40 +6,29 @@
 
 <h2>Hello There! 👋</h2>
 <p>I am Bryce Daly (aka. Skyclo), a self-taught high school student with nearly 8 years of programming experience. I currently am fluent in multiple languages such as JavaScript (DOM, Node.js, and other variants), Python, HTML, CSS, and SQL. I have experience in several others including PHP, C#, and UE4 Blueprints.</p>
+<h3>✨ Quick Facts</h3>
 
-<p>I hope to eventually become fluent in Go, UE4 Blueprints, and C++ or some other language. I also do graphic design work and video editing, among other things. I plan to study Computer Science in college and work on JavaScript full stack software.</p>
-
-<p>When I am not programming, you can often find me playing soccer, playing some of my favorite games or finding new projects to work on!</p>
-
-- 🚀 What I Am Working On: [Ideoaxn](https://github.com/ideoxan), My Personal Website, and of course improving my coding skills 😉
-- 🧠 What I Am Learning: Full Stack JS Development, React, and C#
+- 🚀 I am building [Ideoaxn](https://github.com/ideoxan)
+- 💪 I am working on my personal website
+- 🧠 I am learning React
 - ⚡ Fun Fact: I started programming at the age of 8!
 
-<hr>
-<h3>💻 My Tech Stack</h3>
+<h2>💻 Languages and Tools</h2>
 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code&style=for-the-badge)
-![Firefox](https://img.shields.io/badge/Firefox-%23FF7139?logo=firefox-browser&logoColor=white&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white&style=for-the-badge)
-
-![HTML](https://img.shields.io/badge/HTML-%23E44D26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-%232965f1?logo=css3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?logo=javascript&logoColor=%23f0db4f&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D?logo=node.js&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-%2314354C?logo=python&logoColor=%23ffd343&style=for-the-badge)
-![CSharp](https://img.shields.io/badge/C%20Sharp-%23239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-
-![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&style=for-the-badge)
-![GitHub Profile](https://img.shields.io/badge/GitHub-%23212121?logo=github&style=for-the-badge)
-
-![Inkscape](https://img.shields.io/badge/Inkscape-grey?logo=inkscape&style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23FF0000?logo=adobe&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%232965f1?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firefox](https://img.shields.io/badge/-Firefox-%23FF7139?style=flat-square&logo=firefox-browser&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/-AWS-%23212121?style=flat-square&logo=github&logoColor=white)
+![Inkscape](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=inkscape&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/-Adobe%20CC%20Suite-%23FF0000?style=flat-square&logo=adobe&logoColor=white)
 <br><hr>
-<h4>This README is Powered By These Wonderful Repositories!</h4>
-
-[![README Stats](https://img.shields.io/badge/README%20Stats-%23212121?logo=github&style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats)
-[![Shields](https://img.shields.io/badge/Shields-%23212121?logo=github&style=for-the-badge)](https://github.com/badges/shields)
-[![Markdown Badges](https://img.shields.io/badge/Markdown%20Badges-%23212121?logo=github&style=for-the-badge)](https://github.com/Ileriayo/markdown-badges)
-<hr>
 </html>
