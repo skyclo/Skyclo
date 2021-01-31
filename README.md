@@ -27,8 +27,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/-AWS-%23212121?style=flat-square&logo=github&logoColor=white)
-![Inkscape](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=inkscape&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23212121?style=flat-square&logo=github&logoColor=white)
+![Inkscape](https://img.shields.io/badge/-Inkscape-grey?style=flat-square&logo=inkscape&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/-Adobe%20CC%20Suite-%23FF0000?style=flat-square&logo=adobe&logoColor=white)
 <br><hr>
 </html>
