@@ -13,8 +13,6 @@
 - 🧠 I am learning React
 - ⚡ Fun Fact: I started programming at the age of 8!
 
-<h2>💻 Languages and Tools</h2>
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%232965f1?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
