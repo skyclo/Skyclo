@@ -5,7 +5,7 @@
 <!--![Visits Badge](https://badges.pufler.dev/visits/skyclo/git-badges)-->
 
 <h2>Hello There! 👋</h2>
-<p>I am Bryce Daly (aka. Skyclo), a self-taught college student student with nearly 8 years of programming experience. I currently am fluent in multiple languages such as JavaScript (DOM, Node.js, and other variants), Python, HTML, CSS, and SQL. I have experience in several others including PHP, C#, and UE4 Blueprints.</p>
+<p>I am Conor (aka. Skyclo), a self-taught college student student with nearly 8 years of programming experience. I currently am fluent in multiple languages such as JavaScript (DOM, Node.js, and other variants), Python, HTML, CSS, and SQL. I have experience in several others including PHP, C#, and UE4 Blueprints.</p>
 <h3>✨ Quick Facts</h3>
 
 - 🚀 I am building [Ideoaxn](https://github.com/ideoxan)
